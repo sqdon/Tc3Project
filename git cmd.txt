@@ -1,0 +1,2 @@
+git remote add origin git@github.com:sqdon/Tc3Project.git
+git push -u origin main
